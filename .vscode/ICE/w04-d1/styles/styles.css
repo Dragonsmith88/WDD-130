@@ -1,0 +1,74 @@
+/* element selector */
+h1 {
+    color: slateblue
+}
+
+/* descendent selector */
+footer p {
+    font-size: larger;;
+    background-color: #add8e6
+}
+
+/* class selector */
+footer.my-footer p {
+    font-size: larger;;
+    background-color: #add8e6
+}
+
+/* ID selector */
+footer.my-footer {
+    font-size: larger;;
+    background-color: #add8e6
+}
+
+/* selects both selectors (nav, footer) */
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+/* gives interactions to element */
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+/*
+img {
+    width: 100%;
+}
+*/
+
+/* changes whether the element displays in-line, or as a block
+img {
+    display: block;
+}
+    */
+
+body {
+    text-align: center;
+}
+
+/*
+Absolute:
+    px (pixels)
+    pt (points)
+Relative
+    % (percent)
+    em (font-size)
+    rem (relative em)
+    vw (view width)
+    vh (view height)
+*/

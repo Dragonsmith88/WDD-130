@@ -7,7 +7,7 @@ Fonts are separated by a & */
 
 :root {
   /* TODO: Week02 - change the values below to your colors from your palette */
-  --primary-color: #9AC6C5;
+  --primary-color: #52cdcb;
   --secondary-color: #0A100D;
   --accent1-color: #54457F;
   --accent2-color: #A5E6BA;
@@ -22,7 +22,7 @@ Fonts are separated by a & */
   --headline-color-on-color: #0A100D; /* headlines on a colored background */
   --paragraph-color-on-white: #54457F; /* paragraph text on a white background */
   --paragraph-color-on-color: #54457F; /* paragraph text on a colored background */
-  --paragraph-background-color: #9AC6C5;
+  --paragraph-background-color: #55b2b0;
   --nav-link-color: #54457F;
   --nav-background-color: #A5E6BA;
   --nav-hover-link-color: white;
