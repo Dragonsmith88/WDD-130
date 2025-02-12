@@ -1,0 +1,15 @@
+div {
+    display:flex ;
+    justify-content: space-evenly;
+}
+div img{
+    border-radius: 50%;
+    border: 25px solid black;
+    width: 200px;
+    align-self: center;
+}
+body{
+    background-color: grey;
+    margin: 0 auto;
+    max-width: 1600px;
+}
