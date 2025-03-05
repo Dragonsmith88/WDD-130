@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="s71akG4Hdd-OUDb6o9cv">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry width="850" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-3" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-5" value="Page 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-6" value="Site Plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-7" value="Contact Us" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dragonsmith88.github.io/WDD-130/wwr/images/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="20" y="18" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="850" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px;&quot; face=&quot;Times New Roman&quot;&gt;Rivers&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=48;align=center;" vertex="1" parent="1">
+          <mxGeometry x="248" y="150" width="355" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-11" value="&lt;h3 style=&quot;color: rgb(56, 56, 56); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Desolation and Gray Canyon, Utah&lt;/font&gt;&lt;/h3&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font&gt;Winding through canyons in central Utah, in some of the most desolate land anywhere, the Green river flows towards the mighty Colorado river and the sea. High grey stone cliffs, beautiful desert scenery, and great rapids have made this run famous. This 84-mile trip runs from from Sand Wash to Swaseys Rapid (just outside Green River Utah) and boasts outstanding scenery, interesting geologic formations, evidence of prehistoric and historic human activity, and great whitewater opportunities.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font&gt;Desolation is rated a Class II/III and is usually done in 6 days&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=default;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50.25" y="290" width="450.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-14" value="&lt;div style=&quot;line-height: 138%;&quot;&gt;&lt;h3 style=&quot;color: rgb(56, 56, 56); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Grand Canyon, Arizona&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;margin-top: 14pt; margin-bottom: 0pt; padding: 0pt 0pt 4pt; line-height: 138%;&quot; dir=&quot;ltr&quot;&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-weight: 400;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;This is the grand daddy of all canyons and the grand daddy of all river trips. You will never forget your visit to the Grand Canyon.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-weight: 400;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Grand Canyon river rafting combines world-class whitewater with breathtaking scenery to make one truly unforgettable river experience. The canyon is filled not only with exhilarating whitewater rapids, but with side canyons and ancient indian ruins accessible only by river.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.5em; color: rgb(62, 62, 62); font-family: &amp;quot;Trebuchet MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans&amp;quot;, Arial, sans-serif; font-weight: 400;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CLASS I - X: The Grand Canyon uses a unique river rating scale. The rapids in the Canyon are technically rated I - X ( 1 - 10) to accommodate such a wide variety of rapids and river variances. However, most people are familiar with the regular I - V river rating scale, so we often refer to both.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h3&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacing=2;align=left;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="426.66" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://byui-wdd.github.io/wdd130/resources/images/elves-chasm-landscape.jpg;" vertex="1" parent="1">
+          <mxGeometry x="500.75" y="297.5" width="300" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://byui-wdd.github.io/wdd130/resources/images/littlecolorado.jpg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="380" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="920" width="850" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-20" value="Dry Oar C 2025 - Kyle Smith" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="960" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-21" value="Contact Us" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="959" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-22" value="Site Plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="960" width="139.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dragonsmith88.github.io/WDD-130/wwr/images/facebook.png;" vertex="1" parent="1">
+          <mxGeometry x="627" y="953" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dragonsmith88.github.io/WDD-130/wwr/images/twitter.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="953" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="GSPpNvtyyGR1Ny2mGzre-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dragonsmith88.github.io/WDD-130/wwr/images/instagram.png;" vertex="1" parent="1">
+          <mxGeometry x="774.66" y="953" width="52" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
