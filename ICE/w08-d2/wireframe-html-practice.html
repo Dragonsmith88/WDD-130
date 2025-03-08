@@ -5,23 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        html,
         body {
-            height: 100%;
+            max-height: 100%;
+            margin: 0;
         }
-            *{padding: 1em; background-color: #bc6767;}
-        #main_content {
-            width: 1600px;
+        body {
             display: grid;
+        }
+        #hero_section {
+            padding: 1em; 
+            background-color: #bc6767;
+            color: white;
+            display: grid;
+            grid-template-columns: 20px 1fr 
+        }
+        #main_content {
+            max-width: 1600px;
+            display: grid;
+            gap: 1em;
             grid-template-rows: 1fr auto;
             grid-template-columns: 200px 1fr;
+        }
+        #main_content header {
+
+            grid-column: 1/2;
+        }
+        #main_content main {
+            grid-row: 1/3;
+            grid-column: 2/3;
+        }
+        #main_content footer {
+            grid-row: 2/3;
+            grid-column: 1/2;
         }
     </style>
 </head>
 <body>
     <div id="main_content">
-        <header></header>
-        <main></main>
+        <main>
+            <input type="text" />
+            <section id="hero_section">
+                <button>prev</button>
+                <img 
+                    src="https://picsum.photos.com/" 
+                    alt="placeholder" />
+        </main>
         <footer></footer>
+        <header></header>
     </div>
 </body>
 </html>
