@@ -3,15 +3,15 @@ Any spaces in your font name should be replaced with a +.
 Fonts are separated by a | */
 
 /* TODO: Week07 - if you choose to import fonts, change this line to match your import. */
-@import url("https://fonts.googleapis.com/css2?family=Sigmar&family=Slabo+27px&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Waterfall&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Sigmar&family=Slabo+27px&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Waterfall&display=swap");
 
 /* TODO: Week 07 - The colors you choose for a website are one of the most important decisions you will make. Follow the instructions on the activity in iLearn. You should have at least 2 colors but do not have to fill in all 4 if you do not need them. */
 :root {
   /* TODO: Week07 - change the values below to your colors from your palette */
-  --primary-color: #ffffff;
+  --primary-color: #b8b8b8;
   --secondary-color: #000000;
   --accent1-color: #ff0000;
-  --accent2-color: #33cccc;
+  --accent2-color: #2f9f9f;
 
   /* TODO: Week07 - change the values below to your chosen font(s). */
   /* TODO: Week07 - make sure you provide more than one font option for each to handle fallback */
