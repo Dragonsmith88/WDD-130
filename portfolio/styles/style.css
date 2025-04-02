@@ -82,10 +82,6 @@ nav a:hover {
     gap: 5%;
 }
 
-.me p {
-    /* width: 80%; */
-}
-
 .me img {
     width: 40%;
 }
@@ -191,4 +187,44 @@ div.purpose {
     padding: 5%;
     background-color: #2f9f9f;
     color: white;
+}
+
+/* 3D Business Page */
+.mm-together {
+    text-align: center;
+    padding: 5%;
+    background-color: #2f9f9f;
+    color: white;
+}
+
+.mm-together img {
+    width: 30%;
+    padding-top: 5%;
+    padding: 0;
+}
+
+.mm-together p {
+    padding: 0;
+}
+
+.finished {
+    display: flex;
+    gap: 5%;
+    padding: 5%;
+    align-items: center;
+}
+
+.finished img {
+    width: 20%;
+}
+
+.close-up {
+    text-align: center;
+    padding: 5%;
+    background-color: #2f9f9f;
+    color: white;
+}
+
+.close-up img{
+    width: 50%;
 }
